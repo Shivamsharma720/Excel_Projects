@@ -1,20 +1,23 @@
-# Excel_Projects
--This Project contains an interactive Excel Dashboards built on UK Road Accident Data.
-###Key Insights from DashBoard:
--Total Casualties: 417883
--Casualties by Car: 333485
--Fatal Casualties: 7135
--Serious Casualties: 59312
--Slight Casualties: 351436
--Casualties by Road Surface: More accidents on Dry roads Compared to Wet/Icy Roads
--Casualties by Location:Higher numbers in Urban areas compared to Rural
--Trends: Monthly casualties show clear seasonlity and Peaks in Certain months
+# 🚦 Excel Projects – Road Accident Dashboard
 
-###TOOLS USED:
--Microsoft Excel(Pivot Tables,Slicers,Charts,KPIs)
--Data Cleaning and Processing in Excel
+This project contains an *interactive Excel Dashboard* built on *UK Road Accident Data*.  
 
-###Dashboard Preview:
+### 🔑 Key Insights:
+- *Total Casualties:* 417,083  
+- *Fatal Casualties:* 7,133  
+- *Serious Casualties:* 59,312  
+- *Slight Casualties:* 351,638  
+- *By Car:* 333,438 casualties  
+- *By Road Surface:* More accidents on *Dry Roads* compared to *Wet/Icy Roads*  
+- *By Location:* Higher numbers in *Urban areas* compared to *Rural*  
+- *Trends:* Monthly casualties show clear *seasonality* and peaks in certain months  
 
+---
+
+### 🛠 Tools Used
+- Microsoft Excel (Pivot Tables, Slicers, Charts, KPIs)  
+- Data Cleaning & Processing in Excel  
+
+---
 
 
